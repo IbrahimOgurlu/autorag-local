@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>AutoRAG | Yerel Otomobil Asistanı</title><link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <main>
+    <section class="hero">
+      <div class="eyebrow">TAMAMEN YEREL • RAG PROTOTİPİ</div>
+      <h1>Auto<span>RAG</span></h1>
+      <p>Otomobil teknik verileri ve yüklenen piyasa kayıtlarıyla konuşan Türkçe asistan.</p>
+      <div class="status"><i></i><span id="mode">Yerel arama hazır</span></div>
+    </section>
+    <section class="chat-panel">
+      <div id="chat" class="chat" aria-live="polite">
+        <article class="message assistant"><div class="avatar">A</div><div><p>Merhaba! Teknik özellik, karşılaştırma veya veri setindeki fiyat aralığını sorabilirsin.</p><small>Yanıtlar yalnızca yerel bilgi bankasındaki verilere dayanır.</small></div></article>
+      </div>
+      <div class="suggestions" aria-label="Örnek sorular">
+        <button>2021 Corolla özellikleri neler?</button><button>Clio ile i20'yi karşılaştır</button><button>2021 Egea piyasa aralığı nedir?</button>
+      </div>
+      <form id="form"><label class="sr-only" for="question">Sorunuz</label><input id="question" autocomplete="off" placeholder="Örn. 2021 Corolla'nın yakıt tüketimi ve piyasa aralığı nedir?" required><button type="submit">Gönder <span>↗</span></button></form>
+      <p class="disclaimer">Piyasa sonuçları anlık değer değildir; yalnızca yüklenen örnek CSV kayıtlarının istatistiksel özetidir.</p>
+    </section>
+  </main>
+  <template id="userTemplate"><article class="message user"><div></div></article></template>
+  <template id="assistantTemplate"><article class="message assistant"><div class="avatar">A</div><div></div></article></template>
+  <script src="/app.js"></script>
+</body></html>

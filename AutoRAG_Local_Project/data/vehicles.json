@@ -1,0 +1,121 @@
+[
+  {
+    "id": "toyota-corolla-2021-vision",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2021,
+    "trim": "1.5 Vision Multidrive S",
+    "bodyType": "Sedan",
+    "fuel": "Benzin",
+    "transmission": "Otomatik (CVT)",
+    "engine": "1.5 L atmosferik",
+    "power": "125 hp",
+    "torque": "153 Nm",
+    "consumption": "6.1 L/100 km (karma)",
+    "trunk": "471 L",
+    "safety": "ABS, ESP, 7 hava yastığı, geri görüş kamerası",
+    "features": "Otomatik klima, Apple CarPlay/Android Auto, adaptif hız sabitleyici pakete göre değişebilir.",
+    "notes": "Bakım geçmişi ve şanzıman kullanım şekli ikinci el değerlendirmesinde önemlidir.",
+    "source": "Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"
+  },
+  {
+    "id": "renault-clio-2021-touch",
+    "brand": "Renault",
+    "model": "Clio",
+    "year": 2021,
+    "trim": "1.0 TCe Touch EDC",
+    "bodyType": "Hatchback",
+    "fuel": "Benzin",
+    "transmission": "Otomatik (EDC)",
+    "engine": "1.0 L turbo",
+    "power": "100 hp",
+    "torque": "160 Nm",
+    "consumption": "5.4 L/100 km (karma)",
+    "trunk": "391 L",
+    "safety": "ABS, ESP, 6 hava yastığı, şerit takip uyarısı pakete göre değişebilir",
+    "features": "Dokunmatik ekran, hız sabitleyici, arka park sensörü.",
+    "notes": "Şehir içi kullanım için kompakt boyutları avantaj sağlar; ekspertizle EDC geçişleri kontrol edilmelidir.",
+    "source": "Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"
+  },
+  {
+    "id": "hyundai-i20-2022-style",
+    "brand": "Hyundai",
+    "model": "i20",
+    "year": 2022,
+    "trim": "1.4 MPI Style Otomatik",
+    "bodyType": "Hatchback",
+    "fuel": "Benzin",
+    "transmission": "Otomatik",
+    "engine": "1.4 L atmosferik",
+    "power": "100 hp",
+    "torque": "134 Nm",
+    "consumption": "6.6 L/100 km (karma)",
+    "trunk": "352 L",
+    "safety": "ABS, ESP, 6 hava yastığı, yokuş kalkış desteği",
+    "features": "Geri görüş kamerası, hız sabitleyici, otomatik klima pakete göre değişebilir.",
+    "notes": "Otomatik vitesli şehir içi kullanıma uygun bir örnek modeldir; donanım paketi ilan bazında doğrulanmalıdır.",
+    "source": "Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"
+  },
+  {
+    "id": "fiat-egea-2021-easy",
+    "brand": "Fiat",
+    "model": "Egea",
+    "year": 2021,
+    "trim": "1.3 Multijet Easy",
+    "bodyType": "Sedan",
+    "fuel": "Dizel",
+    "transmission": "Manuel",
+    "engine": "1.3 L turbo dizel",
+    "power": "95 hp",
+    "torque": "200 Nm",
+    "consumption": "4.5 L/100 km (karma)",
+    "trunk": "520 L",
+    "safety": "ABS, ESP, 6 hava yastığı, yokuş kalkış desteği",
+    "features": "Klima, hız sabitleyici ve multimedya donanımları pakete göre değişebilir.",
+    "notes": "Uzun yol ve bagaj ihtiyacı olan kullanıcılar için güçlü adaydır; dizel bakım kayıtları incelenmelidir.",
+    "source": "Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"
+  },
+  {
+    "id": "volkswagen-jetta-2016-comfortline", "brand": "Volkswagen", "model": "Jetta", "year": 2016, "trim": "1.4 TSI Comfortline DSG", "bodyType": "Sedan", "fuel": "Benzin", "transmission": "Otomatik (DSG)", "engine": "1.4 L turbo", "power": "125 hp", "torque": "200 Nm", "consumption": "5.3 L/100 km (karma)", "trunk": "510 L", "safety": "ABS, ESP, çoklu hava yastığı, ISOFIX", "features": "Hız sabitleyici ve park sensörü donanıma göre değişebilir.", "notes": "DSG bakım geçmişi, kavrama ve mekatronik ekspertizle kontrol edilmelidir.", "source": "Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"
+  },
+  {
+    "id": "volkswagen-passat-2018-comfortline", "brand": "Volkswagen", "model": "Passat", "year": 2018, "trim": "1.6 TDI BlueMotion Comfortline DSG", "bodyType": "Sedan", "fuel": "Dizel", "transmission": "Otomatik (DSG)", "engine": "1.6 L turbo dizel", "power": "120 hp", "torque": "250 Nm", "consumption": "4.5 L/100 km (karma)", "trunk": "586 L", "safety": "ABS, ESP, 6 hava yastığı, yorgunluk algılama", "features": "Üç bölgeli klima ve sürüş destekleri pakete göre değişebilir.", "notes": "DSG ve dizel emisyon sistemi bakım kayıtları incelenmelidir.", "source": "Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"
+  },
+  {
+    "id": "mercedes-c200-2018-amg", "brand": "Mercedes-Benz", "model": "C200", "year": 2018, "trim": "C200 AMG 9G-Tronic", "bodyType": "Sedan", "fuel": "Benzin", "transmission": "Otomatik (9G-Tronic)", "engine": "1.5 L turbo benzin + hafif hibrit", "power": "184 hp", "torque": "280 Nm", "consumption": "6.3 L/100 km (karma)", "trunk": "455 L", "safety": "ABS, ESP, aktif fren destek sistemi, 7 hava yastığı", "features": "LED farlar ve sürüş modları donanıma göre değişebilir.", "notes": "Premium bakım ve hasar geçmişi toplam maliyeti belirgin etkiler.", "source": "Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"
+  },
+  {
+    "id": "mercedes-e200-2018-exclusive", "brand": "Mercedes-Benz", "model": "E200", "year": 2018, "trim": "E200 Exclusive 9G-Tronic", "bodyType": "Sedan", "fuel": "Benzin", "transmission": "Otomatik (9G-Tronic)", "engine": "2.0 L turbo", "power": "184 hp", "torque": "300 Nm", "consumption": "7.0 L/100 km (karma)", "trunk": "540 L", "safety": "ABS, ESP, aktif fren desteği, dikkat asistanı", "features": "Elektrikli koltuklar ve sürüş destekleri pakete göre değişebilir.", "notes": "Elektronik donanımlar ve varsa hava süspansiyonu ekspertizde kontrol edilmelidir.", "source": "Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"
+  },
+  {
+    "id": "mercedes-glc180-2019-amg", "brand": "Mercedes-Benz", "model": "GLC 180", "year": 2019, "trim": "GLC 180 AMG 9G-Tronic", "bodyType": "SUV", "fuel": "Benzin", "transmission": "Otomatik (9G-Tronic)", "engine": "1.6 L turbo", "power": "156 hp", "torque": "250 Nm", "consumption": "7.4 L/100 km (karma)", "trunk": "550 L", "safety": "ABS, ESP, aktif fren desteği, çoklu hava yastığı", "features": "Geri görüş kamerası ve LED farlar donanıma göre değişebilir.", "notes": "Lastik, fren ve bakım giderleri değerlendirmeye dahil edilmelidir.", "source": "Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"
+  },
+  {
+    "id": "bmw-320i-2017-ed", "brand": "BMW", "model": "320i", "year": 2017, "trim": "320i ED Sport Line Otomatik", "bodyType": "Sedan", "fuel": "Benzin", "transmission": "Otomatik", "engine": "1.5 L turbo", "power": "136 hp", "torque": "220 Nm", "consumption": "5.0 L/100 km (karma)", "trunk": "480 L", "safety": "ABS, ESP, 6 hava yastığı, lastik basınç uyarısı", "features": "Sürüş modları ve park sensörü pakete göre değişebilir.", "notes": "Motor, şanzıman ve yürüyen aksam bakımları kayıt üzerinden kontrol edilmelidir.", "source": "Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"
+  },
+  {
+    "id": "ford-focus-2020-titanium", "brand": "Ford", "model": "Focus", "year": 2020, "trim": "1.5 EcoBlue Titanium Otomatik", "bodyType": "Hatchback", "fuel": "Dizel", "transmission": "Otomatik", "engine": "1.5 L turbo dizel", "power": "120 hp", "torque": "300 Nm", "consumption": "4.5 L/100 km (karma)", "trunk": "375 L", "safety": "ABS, ESP, şerit takip desteği, çoklu hava yastığı", "features": "Geri görüş kamerası ve adaptif hız sabitleyici pakete göre değişebilir.", "notes": "Dizel emisyon ekipmanlarının kullanım ve bakım durumu kontrol edilmelidir.", "source": "Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"
+  },
+  {
+    "id": "peugeot-3008-2020-allure", "brand": "Peugeot", "model": "3008", "year": 2020, "trim": "1.5 BlueHDi Allure EAT8", "bodyType": "SUV", "fuel": "Dizel", "transmission": "Otomatik (EAT8)", "engine": "1.5 L turbo dizel", "power": "130 hp", "torque": "300 Nm", "consumption": "4.8 L/100 km (karma)", "trunk": "520 L", "safety": "ABS, ESP, aktif güvenlik freni, şerit takip asistanı", "features": "i-Cockpit, geri görüş kamerası ve dijital gösterge pakete göre değişebilir.", "notes": "AdBlue/DPF sistemi ve otomatik şanzıman bakım geçmişi kontrol edilmelidir.", "source": "Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"
+  },
+  {
+    "id": "dacia-duster-2021-comfort", "brand": "Dacia", "model": "Duster", "year": 2021, "trim": "1.3 TCe Comfort EDC", "bodyType": "SUV", "fuel": "Benzin", "transmission": "Otomatik (EDC)", "engine": "1.3 L turbo", "power": "150 hp", "torque": "250 Nm", "consumption": "6.6 L/100 km (karma)", "trunk": "445 L", "safety": "ABS, ESP, yokuş kalkış desteği, çoklu hava yastığı", "features": "Geri görüş kamerası ve anahtarsız giriş pakete göre değişebilir.", "notes": "Arazi kullanımı varsa alt takım ve lastiklerin ayrıca incelenmesi gerekir.", "source": "Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"
+  },
+  {
+    "id": "honda-civic-2021-elegance", "brand": "Honda", "model": "Civic", "year": 2021, "trim": "1.6 i-VTEC Eco Elegance CVT", "bodyType": "Sedan", "fuel": "Benzin / LPG", "transmission": "Otomatik (CVT)", "engine": "1.6 L atmosferik", "power": "125 hp", "torque": "152 Nm", "consumption": "6.8 L/100 km (karma)", "trunk": "519 L", "safety": "ABS, ESP, 6 hava yastığı, geri görüş kamerası", "features": "Dokunmatik ekran ve hız sabitleyici pakete göre değişebilir.", "notes": "LPG sistemi, CVT bakımı ve servis kayıtları kontrol edilmelidir.", "source": "Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"
+  },
+  {
+    "id": "toyota-c-hr-2020-hybrid", "brand": "Toyota", "model": "C-HR", "year": 2020, "trim": "1.8 Hybrid Passion e-CVT", "bodyType": "SUV", "fuel": "Hibrit", "transmission": "Otomatik (e-CVT)", "engine": "1.8 L hibrit", "power": "122 hp sistem gücü", "torque": "Elektrik motoru desteği", "consumption": "4.0 L/100 km (karma)", "trunk": "377 L", "safety": "Toyota Safety Sense, ABS, ESP, çoklu hava yastığı", "features": "Adaptif hız sabitleyici ve şerit takip sistemi pakete göre değişebilir.", "notes": "Hibrit batarya sağlık raporu ve yetkili servis geçmişi incelenmelidir.", "source": "Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"
+  }
+, {"id":"renault-megane-2020-touch","brand":"Renault","model":"Megane","year":2020,"trim":"1.5 Blue dCi Touch EDC","bodyType":"Sedan","fuel":"Dizel","transmission":"Otomatik (EDC)","engine":"1.5 L turbo dizel","power":"115 hp","torque":"260 Nm","consumption":"4.5 L/100 km (karma)","trunk":"503 L","safety":"ABS, ESP, 6 hava yastığı","features":"Multimedya ve park kamerası pakete göre değişebilir.","notes":"EDC ve dizel emisyon sistemi bakımları incelenmelidir.","source":"Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"}
+, {"id":"opel-astra-2020-edition","brand":"Opel","model":"Astra","year":2020,"trim":"1.4 Turbo Edition Otomatik","bodyType":"Hatchback","fuel":"Benzin","transmission":"Otomatik","engine":"1.4 L turbo","power":"140 hp","torque":"230 Nm","consumption":"6.1 L/100 km (karma)","trunk":"370 L","safety":"ABS, ESP, çoklu hava yastığı","features":"Hız sabitleyici ve park sensörü pakete göre değişebilir.","notes":"Turbo motor ve otomatik şanzımanın bakım geçmişi kontrol edilmelidir.","source":"Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"}
+, {"id":"skoda-octavia-2021-elite","brand":"Skoda","model":"Octavia","year":2021,"trim":"1.5 TSI e-TEC Elite DSG","bodyType":"Sedan","fuel":"Benzin","transmission":"Otomatik (DSG)","engine":"1.5 L turbo hafif hibrit","power":"150 hp","torque":"250 Nm","consumption":"5.5 L/100 km (karma)","trunk":"600 L","safety":"ABS, ESP, şerit takip desteği, çoklu hava yastığı","features":"Dijital gösterge ve adaptif hız sabitleyici pakete göre değişebilir.","notes":"DSG bakım geçmişi ve donanım paketi doğrulanmalıdır.","source":"Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"}
+, {"id":"seat-leon-2021-fr","brand":"SEAT","model":"Leon","year":2021,"trim":"1.5 eTSI FR DSG","bodyType":"Hatchback","fuel":"Benzin","transmission":"Otomatik (DSG)","engine":"1.5 L turbo hafif hibrit","power":"150 hp","torque":"250 Nm","consumption":"5.6 L/100 km (karma)","trunk":"380 L","safety":"ABS, ESP, şerit takip, çoklu hava yastığı","features":"LED farlar ve dijital kokpit pakete göre değişebilir.","notes":"DSG ve elektronik donanım kontrolü önerilir.","source":"Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"}
+, {"id":"audi-a3-2021-advanced","brand":"Audi","model":"A3","year":2021,"trim":"35 TFSI Advanced S tronic","bodyType":"Sedan","fuel":"Benzin","transmission":"Otomatik (S tronic)","engine":"1.5 L turbo","power":"150 hp","torque":"250 Nm","consumption":"5.7 L/100 km (karma)","trunk":"425 L","safety":"ABS, ESP, çoklu hava yastığı, ön güvenlik desteği","features":"Sanal kokpit ve park asistanı pakete göre değişebilir.","notes":"S tronic ve periyodik bakım kayıtları incelenmelidir.","source":"Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"}
+, {"id":"nissan-qashqai-2021-skypack","brand":"Nissan","model":"Qashqai","year":2021,"trim":"1.3 DIG-T Sky Pack DCT","bodyType":"SUV","fuel":"Benzin","transmission":"Otomatik (DCT)","engine":"1.3 L turbo","power":"160 hp","torque":"270 Nm","consumption":"6.4 L/100 km (karma)","trunk":"430 L","safety":"ABS, ESP, çevre görüş sistemi pakete göre değişebilir","features":"Panoramik cam tavan ve sürüş destekleri pakete göre değişebilir.","notes":"DCT geçişleri ve bakım geçmişi ekspertizde incelenmelidir.","source":"Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"}
+, {"id":"kia-sportage-2022-cool","brand":"Kia","model":"Sportage","year":2022,"trim":"1.6 T-GDI Cool DCT","bodyType":"SUV","fuel":"Benzin","transmission":"Otomatik (DCT)","engine":"1.6 L turbo","power":"150 hp","torque":"250 Nm","consumption":"7.2 L/100 km (karma)","trunk":"591 L","safety":"ABS, ESP, şerit takip ve çarpışma önleme pakete göre değişebilir","features":"Geri görüş kamerası ve dijital ekran pakete göre değişebilir.","notes":"DCT ve turbo motor bakımları incelenmelidir.","source":"Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"}
+, {"id":"hyundai-tucson-2022-prime","brand":"Hyundai","model":"Tucson","year":2022,"trim":"1.6 T-GDI Prime DCT","bodyType":"SUV","fuel":"Benzin","transmission":"Otomatik (DCT)","engine":"1.6 L turbo","power":"180 hp","torque":"265 Nm","consumption":"7.5 L/100 km (karma)","trunk":"577 L","safety":"ABS, ESP, kör nokta ve şerit takip desteği pakete göre değişebilir","features":"Geniş ekran ve geri görüş kamerası pakete göre değişebilir.","notes":"Şanzıman ve servis geçmişi kontrol edilmelidir.","source":"Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"}
+, {"id":"tesla-model3-2022-rwd","brand":"Tesla","model":"Model 3","year":2022,"trim":"RWD","bodyType":"Sedan","fuel":"Elektrik","transmission":"Tek oranlı otomatik","engine":"Elektrik motoru","power":"Yaklaşık 208 kW","torque":"Anlık elektrik motoru torku","consumption":"15.0 kWh/100 km (yaklaşık)","trunk":"Ön ve arka bagaj toplamı yaklaşık 561 L","safety":"Otomatik acil fren, şerit desteği, çoklu hava yastığı","features":"Otopilot özellikleri ve yazılım fonksiyonları sürüme göre değişebilir.","notes":"Batarya sağlığı, şarj altyapısı ve kaza geçmişi değerlendirilmelidir.","source":"Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"}
+, {"id":"togg-t10x-2023-v1","brand":"Togg","model":"T10X","year":2023,"trim":"V1 RWD Standard Range","bodyType":"SUV","fuel":"Elektrik","transmission":"Tek oranlı otomatik","engine":"Elektrik motoru","power":"160 kW","torque":"350 Nm","consumption":"16.7 kWh/100 km (yaklaşık)","trunk":"441 L","safety":"ABS, ESP, sürüş destekleri ve çoklu hava yastığı","features":"Dijital kokpit ve bağlantılı hizmetler sürüme göre değişebilir.","notes":"Batarya sağlığı, yazılım sürümü ve şarj geçmişi kontrol edilmelidir.","source":"Örnek teknik veri seti — üretici broşürüyle doğrulanmalıdır"}
+]
